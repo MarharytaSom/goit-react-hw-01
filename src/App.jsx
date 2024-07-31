@@ -1,6 +1,7 @@
 import Profile from './components/Profile/Profile';
 import userData from './db/userData.json'
 import FriendList from './components/FriendList/FriendList'
+import FriendListItem from './components/FriendList/FriendListItem'
 import friends from './db/friends.json'
 import TransactionHistory from './components/TransactionHistory/TransactionHistory'
 import transaction from './db/transaction.json'
